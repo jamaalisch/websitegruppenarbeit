@@ -1,8 +1,8 @@
 # Funktionen 
 
-Darkmode- und Lightmode mit Toggle (Oben rechts)
-Image-Slideshow die die Bilder durchgeht
-Benutzbare Skipbuttons für die Bilder
-Verlinkungen aller Seiten über die Bilder auf der Index-Page und dem Header#
-Interaktive Karte mit Standort
-Leasing-Button mit Verlinkung
+1. Darkmode- und Lightmode mit Toggle (Oben rechts)
+1. Image-Slideshow die die Bilder durchgeht
+1. Benutzbare Skipbuttons für die Bilder
+1. Verlinkungen aller Seiten über die Bilder auf der Index-Page und dem Header#
+1. Interaktive Karte mit Standort
+1. Leasing-Button mit Verlinkung
