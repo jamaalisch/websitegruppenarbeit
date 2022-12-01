@@ -1,0 +1,64 @@
+.container {
+  margin: 2% auto;
+  width: 80%;
+}
+
+.panzer {
+  width: 60%;
+  /* HIER ÄNDERN für die Unterseiten */
+  height: 50%;
+  margin: auto;
+}
+
+.panzer > img {
+  width: 100%;
+  height: auto;
+  border-radius: 15px;
+}
+
+.grid-cols-3 {
+  display: grid;
+  margin-top: 20px;
+  grid-template-columns: 20% 60% 20%;
+}
+
+.leasing a {
+  display: block;
+  margin: auto;
+  padding: 5px;
+  border: 2px solid deepskyblue;
+  border-radius: 15px;
+  color: white;
+  text-decoration: none;
+  text-align: center;
+  width: 150px;
+  background-color: deepskyblue;
+  transition: 0.2s;
+}
+
+.leasing a:hover {
+  background-color: lightgreen;
+  border-color: lightgreen;
+  transition: 0.2s;
+}
+
+.lightMode .leasing a {
+  color: black;
+}
+
+iframe {
+  width: 100%;
+  height: 250px;
+  margin-left: -75px;
+  border: none;
+  border-radius: 15px;
+}
+
+.content > * {
+  width: 80%;
+  margin: auto;
+}
+
+.content ul > li {
+  list-style-position: inside;
+}

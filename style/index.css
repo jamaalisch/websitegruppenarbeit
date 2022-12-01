@@ -1,0 +1,32 @@
+.slide {
+  position: relative;
+  width: 80%;
+  margin: 20px auto 0 auto;
+  height: 75vh;
+}
+
+.imageSlider .slide img {
+  border-radius: 25px;
+  width: 80%;
+  margin: auto;
+  height: 75vh;
+  display: block;
+  object-fit: fill;
+}
+
+.slide .text {
+  position: absolute;
+  bottom: 0;
+  width: 80%;
+  margin-left: 10%;
+  text-align: center;
+  padding: 5px;
+  background-color: rgba(53, 53, 53, 0.7);
+  color: white;
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+}
+
+.prev {
+  cursor: pointer;
+}
