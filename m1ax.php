@@ -1,6 +1,6 @@
 <?php require("functions.php");
     tplHead("Der M1 AbramsX", "panzer");
-    tplHeader("m1ax", "Der M1 Abrams");
+    tplHeader("m1ax", "Der M1 AbramsX");
 ?>
 
 <main>
