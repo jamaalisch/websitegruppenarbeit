@@ -40,7 +40,7 @@
             </div>
 
             <div class="leasing">
-                <a href="https://www.youtube.com/watch?v=r8OH8Mq8NMw">Leasing</a>
+                <a href="https://www.youtube.com/watch?v=r8OH8Mq8NMw">Leasing für 229€ p.a.</a>
             </div>
 
         </div>
