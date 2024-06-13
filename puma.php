@@ -45,7 +45,7 @@ Aufgrund seines umfangreichen Besatzungsschutzes und der unverhältnismäßig st
             </div>
 
             <div class="leasing">
-                <a href="https://docs.google.com/document/d/14Ur7FkKQtiMjDY2b9tWmooZI4c0EIo1BP6UwtKlP7n8/edit?usp=sharing">Leasing für 229€ p.a.</a>
+                <a>Leasing für 229€ p.a.</a>
             </div>
 
         </div>
