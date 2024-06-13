@@ -1,5 +1,5 @@
 <footer>
-    <p>Von Cedric und Kilian)</p>
+    <p>Von Cedric und Kilian</p>
 </footer>
 </body>
 </html>
